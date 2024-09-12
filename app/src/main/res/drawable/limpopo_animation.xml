@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/limpsovkskola" android:duration="150" />
+    <item android:drawable="@drawable/limpsovksklub" android:duration="150" />
+    <item android:drawable="@drawable/limpsovkskrem" android:duration="150" />
+    <item android:drawable="@drawable/limpsovksmyata" android:duration="150" />
+    <item android:drawable="@drawable/lipsovksapel" android:duration="150" />
+    <item android:drawable="@drawable/limpsovkstarhun" android:duration="150" />
+    <item android:drawable="@drawable/lipsovkskol" android:duration="150" />
+</animation-list>
